@@ -5,8 +5,6 @@ name:
   display: Thorben Pieper-Sethmacher
   given: Thorben
   family: Pieper-Sethmacher
-  #alternate: ''  # Example: 王伟
-  #pronunciation: ''  # Example: Wáng Wěi
   #pronouns: he/him
 postnominals:
   - PhD
@@ -14,7 +12,7 @@ postnominals:
 #  icon: "☕️"
 role: Postdoctoral Researcher
 bio: |
-  I am a Postdoctoral Researcher working with Dr. Daniel Paulin at Nanyang Technological University's College of Computing and Data Science. My research focuses on developing theory and methodology for Bayesian computational statistics in the context of stochastic partial differential equations and infinite-dimensional diffusion processes. Recently, I have also developed an interest in generative diffusion models on function spaces and their applications to Bayesian statistics. 
+  Welcome! I am a Postdoctoral Researcher working with Dr. Daniel Paulin at Nanyang Technological University's College of Computing and Data Science. My research focuses on developing theory and methodology for Bayesian computational statistics in the context of stochastic partial differential equations and infinite-dimensional diffusion processes. Recently, I have also developed an interest in generative diffusion models on function spaces and their applications to Bayesian statistics. 
   Before joining NTU, I completed my PhD at Delft University of Technology under the supervision of Prof.dr.ir. F.H. van der Meulen and Prof.dr. A.W. van der Vaart. 
 
 
