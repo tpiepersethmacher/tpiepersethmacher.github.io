@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Thorben Pieper-Sethmacher'
 # Website URL
-baseURL: 'https://tpiepersethmacher.github.io/'
+baseURL: https://tpiepersethmacher.github.io
 
 ############################
 ## LANGUAGE
@@ -63,3 +63,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+caches:
+  images:
+    dir: ':cacheDir/images'
