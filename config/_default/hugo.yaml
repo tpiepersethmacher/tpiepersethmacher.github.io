@@ -59,10 +59,21 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
-security:
-  _merge: deep
+#security:
+#  _merge: deep
 sitemap:
   _merge: deep
 caches:
   images:
     dir: ':cacheDir/images'
+security:
+  _merge: deep
+  exec:
+    allow:
+      - ^(dart-)?sass$
+      - ^go$
+      - ^git$
+      - ^node$
+      - ^npx$
+      - ^postcss$
+      - ^tailwindcss$

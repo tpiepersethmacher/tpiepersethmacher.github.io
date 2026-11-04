@@ -85,7 +85,9 @@ sections:
     content:
       title: CV 
       text: |
-        **Nov 2025 – Present** | **Postdoctoral Researcher** *Nanyang Technological University, College of Computing and Data Science*. Advisor: A/Prof. Daniel Paulin.
+        **September 2026 – Present** | **Postdoctoral Researcher** *University of Sydney, School of Mathematics and Statistics*. Advisors: A/Prof. Tiangang Cui, Prof. Georg Gottwald.
+
+        **Nov 2025 – September 2026** | **Postdoctoral Researcher** *Nanyang Technological University, College of Computing and Data Science*. Advisor: A/Prof. Daniel Paulin.
 
         **Sep 2021 – Sep 2025** | **PhD in Mathematics & Statistics** *Delft University of Technology*. Advisors: Prof. Frank van der Meulen, Prof. Aad van der Vaart.
 

@@ -12,17 +12,18 @@ postnominals:
 #  icon: "☕️"
 role: Postdoctoral Researcher
 bio: |
-  Welcome! I am a Postdoctoral Researcher working with Dr. Daniel Paulin at Nanyang Technological University's College of Computing and Data Science. My research focuses on developing theory and methodology for Bayesian computational statistics in the context of stochastic partial differential equations and infinite-dimensional diffusion processes. Recently, I have also developed an interest in generative diffusion models on function spaces and their applications to Bayesian statistics. 
-  Before joining NTU, I completed my PhD at Delft University of Technology under the supervision of Prof.dr.ir. F.H. van der Meulen and Prof.dr. A.W. van der Vaart. 
+  Welcome! I am a Postdoctoral Researcher working with Dr. Tiangang Cui and Prof. Georg Gottwald in the School of Mathematics and Statistics at the University of Sydney. 
+  My research focuses on developing theory and methodology for Bayesian computational statistics in the context of stochastic partial differential equations and infinite-dimensional diffusion processes. Recently, I have also developed an interest in generative diffusion models on function spaces and their applications to Bayesian statistics. 
+  Before joining USYD, I was a postdoc with Dr. Daniel Paulin at Nanyang Technological University's College of Computing and Data Science and a PhD student at Delft University of Technology under the supervision of Prof. Frank van der Meulen and Prof. Aad van der Vaart. 
 
 
 affiliations:
-  - name: College of Computing and Data Science | Nanyang Technological University
+  - name: School of Mathematics and Statistics | University of Sydney
     #url: https://ai.meta.com/
 
 links:
   - icon: at-symbol
-    url: mailto:thorben.ps@ntu.edu.sg
+    url: mailto:thorben.pieper@sydney.edu.au
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/tpiepersethmacher
